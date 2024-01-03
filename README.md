@@ -1,5 +1,5 @@
 # Twelv-Chan
-<h1> multipurpose discord bot for my servers </h1>
+<h3> multipurpose discord bot for my servers </h3>
 
 Current goals:
 
