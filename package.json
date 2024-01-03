@@ -1,0 +1,16 @@
+{
+  "name": "twelv-chan",
+  "version": "1.0.0",
+  "description": "<h1> multipurpose discord bot for my servers </h1>",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tailsmonster",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
