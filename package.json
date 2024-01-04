@@ -2,7 +2,7 @@
   "name": "twelv-chan",
   "version": "1.0.0",
   "description": "<h1> multipurpose discord bot for my servers </h1>",
-  "main": "src/main.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
