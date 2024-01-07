@@ -11,4 +11,11 @@ module.exports = {
         + "\n" + '```' + interaction.member.joinedAt + '```'
         + "\n" + `Wow.`);
     },
-};
+};cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccvccccccccccccccccccccccccccccc
+
+
+I went over some codecademy lessons
+
+I plan on going over some more assignments
+
+Non so frameElement.
